@@ -20,13 +20,13 @@
   ```go
   // Example: Identifier Names
   
-  addMetaData
+  addMetaData()
   replacementText
   SEQUENCE_NUMBER
   isVisible
-  setFullName
+  setFullName()
   SecurityError
-  ResetPasswordForm
+  resetPasswordForm()
   XSRF_TOKEN
   isNumeric
   ```
