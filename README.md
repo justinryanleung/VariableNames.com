@@ -17,7 +17,7 @@
   
   ##### They are the names given to identify an entity in code.
   
-  ```go
+  ```
   // Example: Identifier Names
   
   addMetaData()
