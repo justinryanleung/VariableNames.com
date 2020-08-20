@@ -11,7 +11,7 @@
 ## Frequently Asked Questions
 
 <details>
-  <summary><code>What's is a identifier name?</code></summary>
+  <summary><code>What is an identifier name?</code></summary>
   
   <hr>
   
