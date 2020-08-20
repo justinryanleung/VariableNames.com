@@ -8,10 +8,10 @@
 
 <br>
 
-## Commonly Asked Questions:
+## Frequently Asked Questions
 
 <details>
-  <summary><code>What's an Identifier Name?</code></summary>
+  <summary><code>What's is a identifier name?</code></summary>
   
   <hr>
   
@@ -36,32 +36,45 @@
 </details>
 
 <details>
-  <summary><code>What's an Identifier Entry JSON Object?</code></summary>
+  <summary><code>Can I help contribute new identifier names?</code></summary>
   
   <hr>
   
-  ##### It's the JSON object that's returned after processing an identifier name.
-  
-  ```javascript
-  // Example: Identifier Entry JSON Object
-  {
-     "id": 2339,
-     "type": "function",
-     "name": "useDebugValue()",
-     "words": "use debug value"
-  }
-  ```
+  ##### Absolutely! We are always looking for new contributors. <a href="https://twitter.com/variablenaming" target="_blank" alt="variablenames.com logo">Just give us a shout on twitter to join.</a>
   
   <hr>
-   
+  
+</details>
+
+
+<details>
+  <summary><code>Where are the identifier names that VariableNames.com uses?</code></summary>
+  
+  <hr>
+  
+  ##### The identifier names used on VariableNames.com are fully open-source and can be viewed here: <a href="https://github.com/justinryanleung/VariableNames.com/blob/master/identifier-names.txt" target="_blank" alt="variablenames.com logo">Click to view →</a>
+ 
+  <hr>
+  
 </details>
 
 <details>
-  <summary><code>What are the Identifier Types?</code></summary>
+  <summary><code>Can I use the VariableNames.com identifier names list?</code></summary>
   
   <hr>
   
-  ##### It's for an identifier that can be used to determine the specific purpose that it's used for.
+  ##### Yes you can! Feel free to use the ever growing identifier names list from this repo in your own projects.
+  
+  <hr>
+  
+</details>
+
+<details>
+  <summary><code>What are the identifier types and how are they used?</code></summary>
+  
+  <hr>
+  
+  ##### They are assigned to identifier names so there's a way to determine the specific purpose that name is used for.
   
   ```go
   // Example: Identifier Types
@@ -77,29 +90,6 @@
   
   <hr>
    
-</details>
-
-<details>
-  <summary><code>How to access the names list used on VariableNames.com</code></summary>
-  
-  <hr>
-  
-  ##### Identifier Names List (names only): ...
-  ##### Processed Identifier Entries (JSON): ...
- 
-  <hr>
-  
-</details>
-
-<details>
-  <summary><code>Can I use the VariableNames.com names list?</code></summary>
-  
-  <hr>
-  
-  ##### Yes you can! Feel free to use the ever growing identifier names list from this repo in your own projects.
-  
-  <hr>
-  
 </details>
 <br>
 
