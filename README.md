@@ -4,7 +4,7 @@
 
 # VariableNames.com
 
-> Discover expressive naming ideas to increase your code's readability.
+> An open-source tool that enables programmers in finding descriptive naming ideas to help them write more readable and self-explanatory code.
 
 <br>
 
